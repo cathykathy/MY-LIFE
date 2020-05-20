@@ -1,0 +1,52 @@
+body {
+    line-height: 1.7;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-size: 15px;
+   }
+   
+   h1, h2 {
+    color: #000; }
+   h1, h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem; }
+   a {
+    text-decoration: none;
+   }
+   .menu {
+    border-bottom: 1px solid rgb(233, 131, 233);
+   }
+   ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0;
+    padding-inline-start: 0px; }
+   .name {
+    text-align: center;
+    font-family: Impact, sans-serif;
+    font-style: italic;
+    font-size: 100px;
+    color: rgb(114, 116, 216);
+   }
+   .text {
+    padding: 5px;
+    border: 3px rgb(187, 114, 114);
+    border-style: dotted;
+    background-color: ivory;
+   }
+   .img-fluid {
+    width: 40%;
+    height: auto; }
+   .paint {
+    background-color: ivory;
+    font-style: italic;
+    text-align: right;
+   }
+   .caption {
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: .2em;
+    font-size: 12px;
+    padding: 7px 10px;
+    color: rgb(151, 83, 136);
+    display: inline-block;}
+   
